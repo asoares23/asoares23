@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Angelica!
+- 👀 New to the programming world.
+- 🌱 I’m currently learning front-end related topics and languages...
+- 💞️ I’m looking for opportunities in startups, tech companies, etc. to put my knowledge to the test!
